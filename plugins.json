@@ -1,0 +1,36 @@
+[
+  {
+      "name": "Adguard",
+      "url": "https://raw.githubusercontent.com/thewebtube/plugins/main/adguard/main.js",
+      "enabled": true,
+      "injectOnUrlChange": false
+
+  },
+  {
+      "name": "AgeBypasser",
+      "url": "https://raw.githubusercontent.com/thewebtube/plugins/main/age-restriction-bypass/main.js",
+      "enabled": true,
+      "injectOnUrlChange": false
+
+  },
+  {
+      "name": "AntiClickBait",
+      "url": "https://raw.githubusercontent.com/thewebtube/plugins/main/clickbait-buster/main.js",
+      "enabled": true,
+      "injectOnUrlChange": false
+
+  },
+  {
+      "name": "SponsorBlock",
+      "url": "https://raw.githubusercontent.com/thewebtube/plugins/main/sponsorblock/main.js",
+      "enabled": true,
+      "injectOnUrlChange": true
+
+  },
+  {
+      "name": "Return Dislikes",
+      "url": "https://raw.githubusercontent.com/thewebtube/plugins/main/return-dislike/main.js",
+      "enabled": true,
+      "injectOnUrlChange": true
+  }
+]
