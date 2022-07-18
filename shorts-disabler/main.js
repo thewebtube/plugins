@@ -1,0 +1,1 @@
+try{document.querySelector("div.pivot-bar-item-tab.pivot-shorts").parentElement.remove()}catch{}

@@ -32,5 +32,11 @@
       "url": "https://raw.githubusercontent.com/thewebtube/plugins/main/return-dislike/main.js",
       "enabled": true,
       "injectOnUrlChange": true
+  },
+  {
+    "name": "Shorts Disabler",
+    "url": "https://raw.githubusercontent.com/thewebtube/plugins/main/shorts-disabler/main.js",
+    "enabled": false,
+    "injectOnUrlChange": true
   }
 ]
