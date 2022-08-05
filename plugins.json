@@ -38,5 +38,11 @@
     "url": "https://raw.githubusercontent.com/thewebtube/plugins/main/shorts-disabler/main.js",
     "enabled": false,
     "injectOnUrlChange": true
+  },
+  {
+    "name": "WebTube anonymous statistics",
+    "url": "https://raw.githubusercontent.com/thewebtube/plugins/main/webtube-stats/main.js",
+    "enabled": true,
+    "injectOnUrlChange": false
   }
 ]
